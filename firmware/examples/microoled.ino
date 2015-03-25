@@ -13,7 +13,7 @@
  * 
  * Distributed as-is; no warranty is given.
  ******************************************************************************/
-#include "MicroOLED.h"  // Include the SFE_MicroOLED library
+#include "MicroOLED/MicroOLED.h"
 #include "math.h"
 
 //////////////////////////
