@@ -1,0 +1,8 @@
+{
+  "name": "MicroOLED",
+  "author": "SparkFun, Marc Liyanage, Steeve Monniere",
+  "license": "GNU GPLv3",
+  "version": "0.0.1",
+  "description": "A Spark WebIDE version of Marc Liyanage's MicroOLED SparkCore adaptation based on Sparkfun's library",
+  "namespace": "MicroOLED"
+}
