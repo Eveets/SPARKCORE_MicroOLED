@@ -18,6 +18,8 @@ https://github.com/Eveets/SPARKCORE_MicroOled
 Development environment specifics:
   SparkCore
   Micro OLED Breakout v1.0
+  
+  
 This code was heavily based around the MicroView library, written by GeekAmmo
 (https://github.com/geekammo/MicroView-Arduino-Library), and released under 
 the terms of the GNU General Public License as published by the Free Software 
