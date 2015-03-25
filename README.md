@@ -10,12 +10,19 @@ Hookup
 MicroOLED ----------- SparkCore
 
 GND			GND
+
 3V3			3V3*
+
 D1/SDI			A5
+
 D0/SCK			A3
+
 D2/SDO			None
+
 D/C			D4 (Any digital pin will do)
+
 RST			D5 (Any digital pin will do)
+
 CS 			A2
 
 
