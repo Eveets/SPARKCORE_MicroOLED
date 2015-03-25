@@ -1,5 +1,5 @@
 /****************************************************************************** 
-SFE_MicroOLED.h
+MicroOLED.h
 Header file for the MicroOLED Arduino Library
 
 Jim Lindblom @ SparkFun Electronics
@@ -7,13 +7,17 @@ October 26, 2014
 https://github.com/sparkfun/Micro_OLED_Breakout/tree/master/Firmware/Arduino/libraries/SFE_MicroOLED
 
 This file defines the hardware interface(s) for the Micro OLED Breakout. Those
-interfaces include SPI, I2C and a parallel bus.
+interfaces include SPI, I2C and a parallel bus. Only SPI has been adapted to SparkCore
+
+Adapted by Marc Liyanage
+https://github.com/liyanage/Micro_OLED_Breakout/
+
+Formatted for Spark Web IDE Public Library by Steeve Monniere
+https://github.com/Eveets/SPARKCORE_MicroOled
 
 Development environment specifics:
-Arduino 1.0.5
-Arduino Pro 3.3V
-Micro OLED Breakout v1.0
-
+  SparkCore
+  Micro OLED Breakout v1.0
 This code was heavily based around the MicroView library, written by GeekAmmo
 (https://github.com/geekammo/MicroView-Arduino-Library), and released under 
 the terms of the GNU General Public License as published by the Free Software 
